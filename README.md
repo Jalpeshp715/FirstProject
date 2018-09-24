@@ -3,5 +3,6 @@
 		
         //]]></script>
 	~siteCollection/_catalogs/masterpage/JSlink.js
-	
+	$(table).find('td:nth-child(11)').css("width","250px")
+
         
